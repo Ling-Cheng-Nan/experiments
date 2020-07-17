@@ -18,18 +18,23 @@
 > 冠詞與介系詞均小寫。
 
 -期刊 (Journal)
+### 卷次 期號 頁數
+-Volumn (vol.)
+-number (no.)
+-pp. (pp.)
 
 -會議論文 (Conference)
 > (in) 可加可不加
 > Proceedings of the
->> 't' 如果不在句子第一個字才需要大寫
+> 't' 如果不在句子第一個字才需要大寫
 
 -書名 (Books)
 > 一般只參考到 Chapter ，除非講得很詳細才需要到頁次。
 
-### 卷次 期號 頁數
+
 
 ## 時間
+
 
 ## 附註
 - DOI : Digital Object Index
